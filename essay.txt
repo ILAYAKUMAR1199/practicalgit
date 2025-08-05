@@ -4,3 +4,6 @@ i love my country
 india is my country
 all indians are my brothers and sisters 
 i love my country
+
+git  pull origin main is used to get the data which is changed in git up page 
+
